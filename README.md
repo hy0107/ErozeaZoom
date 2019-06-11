@@ -12,4 +12,4 @@ If you want to submit memory offsets, please submit a pull request [here](https:
 
 ## Credits
 
-This project is based on jayotterbein/FFXIV-Zoom-Hack.
+This project is based on [jayotterbein/FFXIV-Zoom-Hack](https://github.com/jayotterbein/FFXIV-Zoom-Hack).
