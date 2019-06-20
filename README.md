@@ -13,3 +13,7 @@ If you want to submit memory offsets, please submit a pull request [here](https:
 ## Credits
 
 This project is based on [jayotterbein/FFXIV-Zoom-Hack](https://github.com/jayotterbein/FFXIV-Zoom-Hack).
+
+## About "Erozea"
+
+It's a misspelling of Eorzea. For reasons of search convenience and compatibility, no corrections are planned to make. 😥
